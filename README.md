@@ -18,7 +18,7 @@ npm i
 npm run dev
 
 # Step 5: Install the necessary dependencies for backend.
-cd bac
+cd backend
 npm i
 
 # Step 6: Start the development server with auto-reloading and an instant preview.
